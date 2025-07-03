@@ -1,6 +1,8 @@
 🤖 Agentic RAG Chatbot with MCP
 A multi-format document Question-Answering chatbot built using an agent-based RAG architecture with Model Context Protocol (MCP) message passing.
 This chatbot can answer user questions using uploaded documents in PDF, DOCX, PPTX, TXT, CSV formats.
+PLEASE CREATE YOUR OWN GROQ API KEY TO CHECK THE DEMO BELOW. DUE TO PRIVACY CONCERNS, I’M UNABLE TO SHARE MY PERSONAL GROQ API KEY.
+DEMO LINK: https://agenticrag-goylcvnmn3s4ugugsazfwn.streamlit.app/
 
 📌 Features
 ✅ Upload documents in PDF, DOCX, PPTX, TXT, CSV
