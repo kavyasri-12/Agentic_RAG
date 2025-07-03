@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers
+faiss-cpu
+python-docx
+python-pptx
+pymupdf
+pandas
+openai==0.28
