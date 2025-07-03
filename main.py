@@ -1,5 +1,3 @@
-# main.py
-
 import streamlit as st
 from coordinator import Coordinator
 
